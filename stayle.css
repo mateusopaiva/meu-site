@@ -1,5 +1,29 @@
 html {
-    background-color: #1E1E1E;
+    background-color: #0f172a;
     color: #ffffff;
     font-size: 62.5%;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    font-size: 1.6rem;
+}
+
+.inspecionar {
+    border: 5px solid red;
+}
+
+.nav {
+    padding: 2rem 6rem;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+}
+
+.nav-links a {
+    color: #ffffff;
+    text-decoration: none;
 }
