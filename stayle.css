@@ -48,6 +48,7 @@ h2 {
 .nav-links a {
     color: #ffffff;
     text-decoration: none;
+    font-size: 1.8rem;
 }
 
 .avatar {
@@ -56,6 +57,10 @@ h2 {
     height: 24rem;
 
     margin-right: 10rem;
+}
+
+.main {
+    margin-bottom: 5rem;
 }
 
 .main-title {
