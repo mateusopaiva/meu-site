@@ -11,7 +11,8 @@
 
 ## :dash: Layout
 ![site](https://user-images.githubusercontent.com/106707389/210270265-09cc6d8d-1d54-432a-a980-d3a061a39667.png)
-![site2](https://user-images.githubusercontent.com/106707389/210270432-f83338e1-7056-4d92-ac25-e7b617a3b03f.png)
+![site2](https://user-images.githubusercontent.com/106707389/210270816-03f2629b-777c-482f-807a-ec2ad4d41e1a.png)
+
 
 ## :books: Linguagens, dependencias e libs utilizadas
 <div style="display: inline_block"><br>
