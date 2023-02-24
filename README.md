@@ -11,8 +11,6 @@
 
 ## :dash: Layout
 ![site](https://user-images.githubusercontent.com/106707389/210270265-09cc6d8d-1d54-432a-a980-d3a061a39667.png)
-![site2](https://user-images.githubusercontent.com/106707389/210270816-03f2629b-777c-482f-807a-ec2ad4d41e1a.png)
-
 
 ## :books: Linguagens, dependencias e libs utilizadas
 <div style="display: inline_block"><br>
@@ -21,5 +19,5 @@
 </div>          
           
 ## :raising_hand_man: Autores
-| [<img src="https://user-images.githubusercontent.com/106707389/187272671-1f5d9e1e-ba76-4128-9def-c9c8203c81b0.png" width=115><br><sub>Staart</sub>](https://staart.com) || [<img src="https://avatars.githubusercontent.com/u/106707389?s=400&u=c01ee84b19a35b975ac9634deb3baf48d681a4c5&v=4" width=115><br><sub>Mateus Paiva</sub>](https://github.com/mateusopaiva) |
-| :---: | :---: | :---: |
+| [<img src="https://user-images.githubusercontent.com/106707389/187272671-1f5d9e1e-ba76-4128-9def-c9c8203c81b0.png" width=115><br><sub>Staart</sub>](https://staart.com) | [<img src="https://avatars.githubusercontent.com/u/106707389?s=400&u=c01ee84b19a35b975ac9634deb3baf48d681a4c5&v=4" width=115><br><sub>Mateus Paiva</sub>](https://github.com/mateusopaiva) |
+| :---: | :---: |
